@@ -1,3 +1,3 @@
 # cynthia-ugwu-website-clone
-here i uploaded the code of front page of cynthia ugwu website that i tried to clone.
-original website can be seen on the link here https://www.cynthiaugwu.com/
+here i uploaded the clone of cynthia ugwu website landing page which i tried to clone.
+you can see original website here https://www.cynthiaugwu.com/
